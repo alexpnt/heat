@@ -1,0 +1,12 @@
+h1. Operating Systems Assignment
+
+h2. Temperature variation in a square metallic surface
+
+*To run this program, simply do:*
+
+make
+./heat
+
+*To remove the files created:*
+
+make clean
